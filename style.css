@@ -74,9 +74,10 @@ display: none;
 /* showcase  */
 #showcase{
 background-image: url("showcase5.jpg");
+background-position: center;
 background-repeat: no-repeat;
 background-size:cover;
-min-height: 300px;
+min-height: 400px;
 padding:20px;
 text-align: center;
 animation-name: showcase;
