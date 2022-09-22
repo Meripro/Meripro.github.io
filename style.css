@@ -83,7 +83,7 @@ text-align: center;
 animation-name: showcase;
 animation-duration: 20s;
 animation-iteration-count: infinite;
-animation-direction: alternate;
+animation-direction: alternate-reverse;
 }
 #showcase p{
 font-size: 50px;
